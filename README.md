@@ -2,6 +2,8 @@
 
 Scalable API Rate Limiter Service (Sliding Window Log) 🔒
 
+<img width="614" height="422" alt="image" src="https://github.com/user-attachments/assets/5e72cbfc-42cc-49f9-87b9-bd67ef249444" />
+
 Overview and Project Goal
 
 This project implements a critical backend component: a highly accurate, distributed Rate Limiter Service. The primary goal is to safeguard backend APIs from excessive traffic, abuse, and Denial-of-Service (DoS) attacks, ensuring stable resource availability for all users.
